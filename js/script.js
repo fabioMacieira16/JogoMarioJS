@@ -32,3 +32,7 @@ const loop = setInterval(() => {
 }, 10);
 
 document.addEventListener('keypress', jump);      
+
+function start() {
+    
+}

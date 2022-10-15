@@ -37,6 +37,11 @@
     animation: clouds-animation 20s infinite linear;
 }
 
+.score {
+    text-align: right;
+    width: 1217px;
+}
+
 @keyframes pipe-animation {
     from {
         right: -80px;
